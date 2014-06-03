@@ -15,14 +15,9 @@ $(".navbar").sticky({topSpacing: 0});
 //
 $.vegas("slideshow", {
     backgrounds:[
-        { src:"images/slider/01.jpg", fade:1000 },
-        { src:"images/slider/02.jpg", fade:1000 },
-        { src:"images/slider/03.jpg", fade:1000 },
-        { src:"images/slider/04.jpg", fade:1000 },
-        { src:"images/slider/05.jpg", fade:1000 },
-        { src:"images/slider/06.jpg", fade:1000 },
-        { src:"images/slider/07.jpg", fade:1000 },
-        { src:"images/slider/08.jpg", fade:1000 }
+        { src:"images/slider2/1.jpg", fade:1000 },
+        { src:"images/slider2/2.jpg", fade:1000 },
+        { src:"images/slider2/3.jpg", fade:1000 }
     ]
 })("overlay", {
     src:"img/overlays/16.png"
